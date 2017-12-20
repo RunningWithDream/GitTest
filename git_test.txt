@@ -4,4 +4,8 @@ third
 fouth
 fivth
 sixth
+<<<<<<< HEAD
 this is on master
+=======
+开始在分支中进行开发
+>>>>>>> dev
